@@ -1,5 +1,5 @@
 {
-   "Animais": [
+   "animais": [
       "abelha",
       "alce",
       "aranha",
@@ -232,7 +232,7 @@
       "zebra",
       "zangão"
    ],
-   "Cores": [
+   "cores": [
       "azul",
       "anil",
       "amarelo",
@@ -283,7 +283,7 @@
       "vinho",
       "violeta"
    ],
-   "Filmes": [
+   "filmes": [
       "A Casa do Lago",
       "Amanhecer",
       "Parte",
@@ -665,7 +665,7 @@
       "Wendy Wu",
       "XMen"
    ],
-   "Heróis": [
+   "herois": [
       "Abelha Vermelha",
       "ametista",
       "Aquagirl",
@@ -733,7 +733,7 @@
       "Tempestade",
       "Wolverine"
    ],
-   "Objetos": [
+   "objetos": [
       "Abajur",
       "abraçadeira",
       "abre-latas",
@@ -1352,7 +1352,7 @@
       "zíper",
       "zootropo"
    ],
-   "Países": [
+   "países": [
       "Afeganistão",
       "África do sul",
       "Albânia",
@@ -1543,7 +1543,7 @@
       "Zâmbia",
       "Zimbábue"
    ],
-   "Plantas": [
+   "plantas": [
       "abacateiro",
       "abélia",
       "acácia-branca",
@@ -1626,7 +1626,7 @@
       "violeta",
       "xaxim"
    ],
-   "Verbos": [
+   "verbos": [
       "abafar",
       "abaixar",
       "abalar",
@@ -4574,7 +4574,7 @@
       "vomitar",
       "vortilhonar"
    ],
-   "Alimentos": [
+   "alimentos": [
       "abacate",
       "abiu",
       "abiu roxo",
@@ -5020,7 +5020,7 @@
       "x-salada",
       "yakissoba"
    ],
-   "Profissões": [
+   "profissões": [
       "alfaiate",
       "arquiteto",
       "artesão",
