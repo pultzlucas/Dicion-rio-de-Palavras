@@ -3,4 +3,3 @@
 
 -Essas palavras são nomes de alimentos, filmes, objetos, heróis, cores, profissões, verbos, plantas e países, tudo está em ordem alfabética e organizado.
 
-# Porque um dicionário de palavras?
